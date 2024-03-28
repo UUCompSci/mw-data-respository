@@ -1,0 +1,8 @@
+a <- 50
+b <-40
+print(a-b)
+#are how comments are done
+a %/% b -> c
+print(c)
+a == b
+a == 50 && b == 40
